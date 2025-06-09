@@ -1,5 +1,5 @@
 
-# Angelos T. Dimoglis
+## ⚜️ Angelos T. Dimoglis ⚜️
 
 Hi there! I'm a passionate software engineer who thrives on building reliable, scalable, and elegant systems. My interests span across the full spectrum of software—from writing efficient code to automating infrastructure and everything in between.
 
