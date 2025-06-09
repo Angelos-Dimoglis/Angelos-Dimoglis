@@ -5,11 +5,11 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ## 📚 Interests
 
-* software engineering 
-* software architecture
-* DevOps and automation
-* cloud computing and distributed systems
-* programming languages
+* Software Engineering 
+* Software Architecture
+* DevOps And Automation
+* Cloud Computing And Distributed Systems
+* Programming Languages
 
 ##  💻 Tech Stack
 
