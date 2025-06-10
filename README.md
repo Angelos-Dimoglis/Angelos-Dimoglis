@@ -17,6 +17,6 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Angelos-Dimoglis&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Angelos-Dimoglis&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
