@@ -18,14 +18,18 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
-<br><br> <!-- Added spacing -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<br><br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+<br>
 
-<!-- GitHub Streak, centered -->
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Angelos-Dimoglis&theme=gruvbox&hide_border=false" />
 </p>
