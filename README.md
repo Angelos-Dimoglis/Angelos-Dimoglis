@@ -35,6 +35,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 <br>
 
 <!-- Top Languages -->
+<!-- Top Languages -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
