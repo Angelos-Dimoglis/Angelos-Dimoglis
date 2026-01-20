@@ -25,9 +25,9 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 ### Scripting Languages
 
 <div style="display: flex; gap: 16px;">
-    <img src="images/python.svg" width="90">
-    <img src="images/bash.svg" width="90">
-    <img src="images/lua.svg" width="90">
+    <img src="images/python.svg" width="80">
+    <img src="images/bash.svg" width="80">
+    <img src="images/lua.svg" width="80">
 </div>
 
 
