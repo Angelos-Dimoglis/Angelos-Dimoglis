@@ -13,9 +13,11 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](images/c.svg)
+![C++](images/c++.svg)
+![Java](images/java.svg)
+![Go](images/go.svg)
+<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -34,7 +36,6 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 </p>
 <br>
 
-<!-- Top Languages -->
 <!-- Top Languages -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Dimoglis&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
