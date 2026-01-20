@@ -13,7 +13,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Tech Stack
 
-<img src="images/c.svg" width="300">
+<img src="images/c.svg" width="100">
 ![C++](images/c++.svg)
 ![Java](images/java.svg)
 ![Go](images/go.svg)
