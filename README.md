@@ -14,9 +14,9 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 ##  💻 Tech Stack
 
 <img src="images/c.svg" width="100">
-![C++](images/c++.svg)
-![Java](images/java.svg)
-![Go](images/go.svg)
+<img src="images/c++.svg" width="100">
+<img src="images/java.svg" width="100">
+<img src="images/go.svg" width="100">
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
