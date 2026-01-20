@@ -13,17 +13,24 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Tech Stack
 
+### Programming Languages
+
 <div style="display: flex; gap: 16px;">
-    <img src="images/c.svg" width="100">
-    <img src="images/c++.svg" width="100">
-    <img src="images/java.svg" width="100">
-    <img src="images/go.svg" width="100">
+    <img src="images/c.svg" width="90">
+    <img src="images/c++.svg" width="90">
+    <img src="images/java.svg" width="90">
+    <img src="images/go.svg" width="90">
 </div>
 
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+### Scripting Languages
+
+<div style="display: flex; gap: 16px;">
+    <img src="images/python.svg" width="90">
+    <img src="images/bash.svg" width="90">
+    <img src="images/lua.svg" width="90">
+</div>
+
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
