@@ -13,13 +13,11 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Tech Stack
 
-### Languages
+**Programming Languages**: C, C++, Java, Go
 
-**Programming**: C, C++, Java, Go
+**Scripting Languages**: Python, Bash, Lua
 
-**Scripting**: Python, Bash, Lua
-
-**Markup And Typesetting**: Markdown, HTML, Typst
+**Markup And Typesetting Languages**: Markdown, HTML, Typst
 
 **Version Control**: Git, GitHub, GitLab
 
