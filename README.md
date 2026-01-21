@@ -13,7 +13,9 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Tech Stack
 
-### Programming Languages
+### Languages
+
+#### Programming
 
 <div style="display: flex; gap: 16px;">
     <img src="images/c.svg" width="90">
@@ -22,7 +24,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
     <img src="images/go.svg" width="90">
 </div>
 
-### Scripting Languages
+#### Scripting
 
 <div style="display: flex; gap: 20px;">
     <img src="images/python.svg" width="75">
@@ -30,8 +32,16 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
     <img src="images/lua.svg" width="75">
 </div>
 
+#### Markup And Typesetting
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<div style="display: flex; gap: 16px;">
+    <img src="images/markdown.svg" width="90">
+    <img src="images/html.svg" width="90">
+    <img src="images/typst.svg" width="90">
+</div>
+
+### Other Tools
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
