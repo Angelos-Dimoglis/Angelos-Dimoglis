@@ -9,7 +9,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 * Software Architecture
 * DevOps And Automation
 * Cloud Computing And Distributed Systems
-* Programming Languages
+* Programming Language Design And Compilers
 
 ##  💻 Tech Stack
 
