@@ -16,7 +16,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 * **Scripting Languages**: Python, Bash, Lua
 * **Markup And Typesetting Languages**: Markdown, HTML, Typst
 * **Version Control**: Git, GitHub, GitLab
-* **Other Tools**: MySQL, Linux (daily use since 2022), GDB, vim/neovim, Make, Lex, Yacc
+* **Other Tools**: MySQL, Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
 
 ## 📊 GitHub Stats
 
