@@ -5,8 +5,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ## 📚 Areas Of Interest
 
-* Software Engineering 
-* Software Architecture
+* Software Engineering And Architecture
 * DevOps And Automation
 * Cloud Computing And Distributed Systems
 * Programming Language Design And Compilers
