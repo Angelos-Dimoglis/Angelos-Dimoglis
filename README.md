@@ -17,6 +17,8 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 #### Programming
 
+![c](https://camo.githubusercontent.com/84f6d5bcac0c0809a8c385cabb5b90d26eec99fc2dbfef8fcd8a6bb537af9279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465)
+
 <div style="display: flex; gap: 16px;">
     <img src="images/c.svg" width="90">
     <img src="images/c++.svg" width="90">
