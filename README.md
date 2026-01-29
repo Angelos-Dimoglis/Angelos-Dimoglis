@@ -10,7 +10,7 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 * Cloud Computing And Distributed Systems
 * Programming Language Design And Compilers
 
-##  💻 Tech Stack
+##  💻 Languages And Tools
 
 * **Programming Languages**: C, C++, Java, Go
 * **Scripting Languages**: Python, Bash, Lua
