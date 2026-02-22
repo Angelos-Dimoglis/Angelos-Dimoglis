@@ -18,4 +18,4 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 * **Version Control**: Git, GitHub, GitLab
 * **Other Tools**: MySQL, Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis)](https://github.com/anuraghazra/github-readme-stats)
