@@ -17,5 +17,3 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 * **Markup And Typesetting Languages**: Markdown, HTML, Typst
 * **Version Control**: Git, GitHub, GitLab
 * **Other Tools**: MySQL, Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelos-Dimoglis)
