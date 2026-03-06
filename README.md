@@ -17,6 +17,6 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
     * **Scripting**: Python, Bash, Lua
     * **Markup And Typesetting**: Markdown, HTML, Typst
 * **Version Control**: Git, GitHub, GitLab
-* **DevOps tools**: Docker, Kubernetes
+* **DevOps Tools**: Docker, Kubernetes
 * **Databases**: MySQL
 * **Other Tools**: Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
