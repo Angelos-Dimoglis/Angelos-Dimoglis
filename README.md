@@ -12,8 +12,11 @@ Hi there! I'm a passionate software engineer who thrives on building reliable, s
 
 ##  💻 Languages And Tools
 
-* **Programming Languages**: C, C++, Java, Go
-* **Scripting Languages**: Python, Bash, Lua
-* **Markup And Typesetting Languages**: Markdown, HTML, Typst
+* **Languages**
+    * **Programming**: C, C++, Java, Go
+    * **Scripting**: Python, Bash, Lua
+    * **Markup And Typesetting**: Markdown, HTML, Typst
 * **Version Control**: Git, GitHub, GitLab
-* **Other Tools**: MySQL, Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
+* **DevOps tools**: Docker, Kubernetes
+* **Databases**: MySQL
+* **Other Tools**: Linux (daily use since 2022), GDB, Vim/Neovim, Make, Lex, Yacc
